@@ -36,7 +36,6 @@ Developed a music streaming application, implemented JWT-based authentication in
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-</div>
 
 ---
 
@@ -68,4 +67,5 @@ Developed a music streaming application, implemented JWT-based authentication in
 
 <div align="center">
   <sub>Built with ❤️ | ฅ^•ﻌ•^ฅ <i>"Turning coffee and math into intelligence."</i></sub>
+</div>
 </div>
