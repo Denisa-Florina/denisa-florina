@@ -9,22 +9,22 @@
 
 ### 🚀 Featured Projects
 **[🧠 MedSeg AI](https://github.com/Denisa-Florina/MedSeg-AI)**
-*A 3D segmentation platform for the Anterior Ethmoidal Artery, bridging the gap between software engineering and medicine. Built with Python, Flask, and Firebase. Reduced clinical segmentation time by 97%!*
+*A Deep Learning pipeline (nnU-Net) to segment the Anterior Ethmoidal Artery from CBCT scans. Engineered a Full-Stack web platform (React, Flask, Firebase) that successfully reduced the clinical segmentation time by 97%.*
 
 **[✈️ Flight Booking System](https://github.com/Denisa-Florina/Flight-Booking-System)**
-*A robust enterprise-level application showcasing my Full-Stack architecture and automated testing skills.*
+*A custom Client-Server architecture handling RPC-based communication over sockets. Implemented in Java and C# using MVC and Observer patterns, backed by SQLite and a React frontend.*
 
 ---
 
 ### 💼 Work Experience
 
-**Software Engineer Intern @ NTT DATA** *(Until Mar 2026)* <br>
-💻 *Tech Stack: Java, Spring Boot* <br>
-Gained hands-on experience with enterprise-level system architectures and backend development.
-<br><br>
-**Full-Stack Developer Intern @ AROBS** <br>
-💻 *Tech Stack: .NET, Angular* <br>
-Developed scalable web applications, implemented RESTful APIs, and ensured code quality through automated testing.
+**Software Engineer Intern @ NTT DATA** *(Until Mar 2026)* 
+💻 *Tech Stack: Java, Spring Boot* 
+Deepened understanding of Object-Oriented Programming and backend logic with Spring Boot.
+
+**Full-Stack Developer Intern @ AROBS** 
+💻 *Tech Stack: .NET, Angular, Cypress, SQL Server* 
+Developed a music streaming application, implemented JWT-based authentication in a RESTful .NET API, and executed end-to-end automated tests using Cypress.
 
 ---
 
@@ -39,6 +39,14 @@ Developed scalable web applications, implemented RESTful APIs, and ensured code 
 </div>
 
 ---
+
+### 🏆 Honors & Volunteering
+* **Classic CCC (Cloudflight Coding Contest):** Consistently secured top rankings across multiple editions (Rank 28/439, Rank 33/357, and Rank 40/302), demonstrating advanced C++ problem-solving skills.
+* **AI Bootcamp Mentor:** Taught Artificial Intelligence concepts to high school students through interactive workshops.
+* **ApelBac UBBine Tutor:** Tutored students in Computer Science and Mathematics.
+
+---
+
 
 ### 🛠 My Tech Stack
 | Category | Tools |
