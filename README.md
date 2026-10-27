@@ -36,7 +36,7 @@ Developed a music streaming application, implemented JWT-based authentication in
 ---
 
 ### 📄 Professional Links
-<a href="https://drive.google.com/file/d/1eTb9UeGzfUQMAVE0EVASSNDxhPqNVL-z/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1Kn6cYcNeSFyJZsesDuyEoGp2e1jta-wR/view?usp=sharing">
   <img src="https://img.shields.io/badge/Curriculum_Vitae-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=pink" alt="CV" />
 </a>
 <a href="https://www.linkedin.com/in/denisa-florina-oproi-b71b241a0/">
